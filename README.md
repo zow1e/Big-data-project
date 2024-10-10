@@ -1,4 +1,5 @@
-identify and describe business problems or areas of interest that are related to
+## Project goals
+Identified and described business problems or areas of interest that are related to
 the American owned airlines. 
 
 Big data pipeline involves investigation and exploration of the big data before
@@ -24,3 +25,6 @@ Software and Languages used:
 - pandas
 - scikit-learn
 - seaborn
+---
+## Team members
+Zowie, Siddarth, Rawtbhik, Parik

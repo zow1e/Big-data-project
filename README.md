@@ -33,4 +33,4 @@ Software and Languages used:
 - seaborn
 ---
 ## Team members
-Zowie, Siddarth, Rawtbhik, Parik
+Zowie, Siddarth, ZhangXiang, Parik

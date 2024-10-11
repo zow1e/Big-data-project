@@ -10,6 +10,13 @@ predictive accuracies as well as system scalability.
 
 The evaluation of the results, conclusions, and suggested solutions are supported by metrics collected during the
 machine learning flow.
+---
+Apache Spark was used to implement the Extract-Transform-Load (ETL pipeline), perform exploratory data analysis and create prediction models.
+- data streaming
+- data visualiation
+- data cleaning
+- feature extraction
+- modelling of data with various machine learning models
 
 ---
 Larger data files are omitted, available in google doc folder;
@@ -19,8 +26,7 @@ Software and Languages used:
 - BeautifulSoup
 - Google colab
 - Jupyter notebook
-- Apache Cassandra
-- Cassandra Query Language (CQL)
+- Apache spark
 - python for data analysis
 - pandas
 - scikit-learn
